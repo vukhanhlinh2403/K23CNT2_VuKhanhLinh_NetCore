@@ -1,0 +1,42 @@
+﻿@model Vkllesson04.Models.Book
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>them moi danh sach</h1>
+<form action="" method="POST" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Title">ten sach</label>
+        <input type="text" class="form-control"asp-for="Title" placeholder="ten sach" />
+    </div>
+    <div class="form-group">
+        <label asp-for="AuthorId">tac gia </label>
+        <select asp-for="AuthorId" class="form-control" asp-items="@ViewBag.authors">
+            <option value="">Chọn tác giả</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="GenreID">Thể loại</label>
+        <select asp-for="GenreID" class="form-control" asp-items="@ViewBag.genres">
+            <option value="">Chọn Thể loại</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="price">Giá sách</label>
+        <input type="text" class="form-control" asp-for="price" placeholder="Giá sách">
+    </div>
+    <div class="form-group">
+        <label asp-for="TotalPage">Tổng số trang</label>
+        <input type="text" class="form-control" asp-for="TotalPage" placeholder="Tổng số trang">
+    </div>
+    <div class="form-group">
+        <label asp-for="Image">Hình ảnh/ Poster</label>
+        <input type="file" class="form-control" asp-for="Image">
+    </div>
+    <div class="form-group">
+        <label asp-for="Summary">Giới thiệu ngắn</label>
+        <textarea class="form-control" asp-for="Summary" placeholder="Nội dung giới thiệu sách..."></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu lại</button>
+</form>
+
