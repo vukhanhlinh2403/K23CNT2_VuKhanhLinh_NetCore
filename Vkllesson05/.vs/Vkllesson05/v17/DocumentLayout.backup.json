@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\shared\\_vkllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\shared\\_vkllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklmember\\vklgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklmember\\vklgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\controllers\\vklmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:controllers\\vklmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\models\\datamodels\\vklmembermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:models\\datamodels\\vklmembermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\models\\datamodels\\vklmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:models\\datamodels\\vklmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklmember\\vklgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklmember\\vklgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VklGetMembers.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMembers.cshtml",
+              "RelativeDocumentMoniker": "Views\\VklMember\\VklGetMembers.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMembers.cshtml",
+              "RelativeToolTip": "Views\\VklMember\\VklGetMembers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-24T13:21:55.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VklMemberModel.cs",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMemberModel.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\VklMemberModel.cs",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMemberModel.cs",
+              "RelativeToolTip": "Models\\DataModels\\VklMemberModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:18:57.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VklGetMember.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\VklMember\\VklGetMember.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMember.cshtml",
+              "RelativeToolTip": "Views\\VklMember\\VklGetMember.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T02:21:35.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VklMemberController.cs",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VklMemberController.cs",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklMemberController.cs",
+              "RelativeToolTip": "Controllers\\VklMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:08:21.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VklMember.cs",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMember.cs",
+              "RelativeDocumentMoniker": "Models\\DataModels\\VklMember.cs",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMember.cs",
+              "RelativeToolTip": "Models\\DataModels\\VklMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:03:53.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:58:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VklAbout.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklHome\\VklAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\VklHome\\VklAbout.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklHome\\VklAbout.cshtml",
+              "RelativeToolTip": "Views\\VklHome\\VklAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T01:52:39.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VklHomeController.cs",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklHomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VklHomeController.cs",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklHomeController.cs",
+              "RelativeToolTip": "Controllers\\VklHomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:48:48.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_VklLayout.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\Shared\\_VklLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_VklLayout.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\Shared\\_VklLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_VklLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T01:48:13.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T01:47:07.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

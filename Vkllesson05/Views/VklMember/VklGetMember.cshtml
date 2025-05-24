@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "Thong tin member";
+    var vklMember = ViewBag.vklMember as Vkllesson05.Models.DataModels.VklMember;
+}
+
+<div class="alert alert-danger">
+    <h1>thong tin member </h1>
+    <hr />
+    <p>MemberId: @vklMember.VklMemberId</p>
+    <p>UserName: @vklMember.VklUserName</p>
+    <p>FullName: @vklMember.VklFullName</p>
+    <p>Password: @vklMember.VklPassword</p>
+    <p>Email: @vklMember.VklEmail</p>
+
+</div>
+

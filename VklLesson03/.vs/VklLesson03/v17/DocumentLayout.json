@@ -46,8 +46,7 @@
               "RelativeToolTip": "Views\\VklHome\\VklAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T01:54:40.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:54:40.686Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T01:47:23.874Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:47:23.874Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Views\\VklHome\\VklIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T01:46:13.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:46:13.624Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "Controllers\\VklHomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T01:43:41.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:43:41.12Z"
             },
             {
               "$type": "Document",
@@ -96,7 +92,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_VklLayout.cshtml",
               "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\VklLesson03\\Views\\Shared\\_VklLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_VklLayout.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T01:41:57.206Z",
               "EditorCaption": ""
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-07T01:41:41.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T01:41:41.083Z"
             }
           ]
         }
