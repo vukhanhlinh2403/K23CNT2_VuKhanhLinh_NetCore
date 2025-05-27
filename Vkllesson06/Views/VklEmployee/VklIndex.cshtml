@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Vkllesson06.Models.VklEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-3">Danh sách nhân viên</h2>
+    <a class="btn btn-primary mb-3" asp-action="VklCreate">Thêm mới nhân viên</a>
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Mã NV</th>
+                <th>Họ tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Số điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vklEmp in Model)
+            {
+                <tr>
+                    <td>@vklEmp.VklId</td>
+                    <td>@vklEmp.VklName</td>
+                    <td>@vklEmp.VklBirthDay.ToString("dd/MM/yyyy")</td>
+                    <td>@vklEmp.VklEmail</td>
+                    <td>@vklEmp.VklPhone</td>
+                    <td>@vklEmp.VklSalary.ToString("C")</td>
+                    <td class="text-center">
+                        @if (vklEmp.VklStatus)
+                        {
+                            <span class="badge bg-success">Dang lam</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-primary">nghi</span>
+                        }
+                    </td>
+                    <td>
+                        <a class="btn btn-sm btn-warning" asp-action="VklEdit" asp-route-id="@vklEmp.VklId">Sửa</a>
+                        <a class="btn btn-sm btn-danger" asp-action="VklDelete" asp-route-id="@vklEmp.VklId"
+                           onclick="return confirm('Bạn có chắc muốn xóa nhân viên này?');">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

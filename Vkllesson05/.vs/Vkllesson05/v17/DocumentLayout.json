@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklhome\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\shared\\_vkllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\shared\\_vkllayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklmember\\vklgetmembers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,18 +43,6 @@
       "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklmember\\vklgetmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\vklhome\\vklabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:controllers\\vklhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|d:\\netcore\\k23cnt2_vukhanhlinh_netcore\\vkllesson05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{776000E1-BBF4-4588-A135-E398BE161165}|Vkllesson05.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklHome\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\VklHome\\Privacy.cshtml",
+              "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklHome\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\VklHome\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-27T01:27:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "VklGetMembers.cshtml",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMembers.cshtml",
               "RelativeDocumentMoniker": "Views\\VklMember\\VklGetMembers.cshtml",
@@ -62,12 +79,11 @@
               "RelativeToolTip": "Views\\VklMember\\VklGetMembers.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-24T13:21:55.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:21:55.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "VklMemberModel.cs",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMemberModel.cs",
               "RelativeDocumentMoniker": "Models\\DataModels\\VklMemberModel.cs",
@@ -75,12 +91,11 @@
               "RelativeToolTip": "Models\\DataModels\\VklMemberModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:18:57.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T13:18:57.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "VklGetMember.cshtml",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklMember\\VklGetMember.cshtml",
               "RelativeDocumentMoniker": "Views\\VklMember\\VklGetMember.cshtml",
@@ -88,12 +103,11 @@
               "RelativeToolTip": "Views\\VklMember\\VklGetMember.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T02:21:35.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T02:21:35.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "VklMemberController.cs",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklMemberController.cs",
               "RelativeDocumentMoniker": "Controllers\\VklMemberController.cs",
@@ -101,12 +115,11 @@
               "RelativeToolTip": "Controllers\\VklMemberController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T02:08:21.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T02:08:21.031Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "VklMember.cs",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Models\\DataModels\\VklMember.cs",
               "RelativeDocumentMoniker": "Models\\DataModels\\VklMember.cs",
@@ -114,12 +127,11 @@
               "RelativeToolTip": "Models\\DataModels\\VklMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T02:03:53.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T02:03:53.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -132,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "VklAbout.cshtml",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\VklHome\\VklAbout.cshtml",
               "RelativeDocumentMoniker": "Views\\VklHome\\VklAbout.cshtml",
@@ -140,36 +152,38 @@
               "RelativeToolTip": "Views\\VklHome\\VklAbout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T01:52:39.233Z"
+              "WhenOpened": "2025-05-20T01:52:39.233Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "VklHomeController.cs",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklHomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\VklHomeController.cs",
               "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Controllers\\VklHomeController.cs",
               "RelativeToolTip": "Controllers\\VklHomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:48:48.415Z"
+              "WhenOpened": "2025-05-20T01:48:48.415Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_VklLayout.cshtml",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\Shared\\_VklLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_VklLayout.cshtml",
               "ToolTip": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\Shared\\_VklLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_VklLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T01:48:13.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\NetCore\\K23CNT2_VuKhanhLinh_NetCore\\Vkllesson05\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
