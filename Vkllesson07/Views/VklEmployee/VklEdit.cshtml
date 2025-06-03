@@ -1,0 +1,59 @@
+﻿@model Vkllesson07.Models.VklEmployee
+
+@{
+    ViewData["Title"] = "sua thong tin nhan vien";
+}
+
+<h1>sua thong tin nhan vien</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="VklEdit" asp-route-id="@Model.VklId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VklId" class="control-label"></label>
+                <input asp-for="VklId" class="form-control" />
+                <span asp-validation-for="VklId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklName" class="control-label"></label>
+                <input asp-for="VklName" class="form-control" />
+                <span asp-validation-for="VklName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklBirthDay" class="control-label"></label>
+                <input asp-for="VklBirthDay" class="form-control" />
+                <span asp-validation-for="VklBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklEmail" class="control-label"></label>
+                <input asp-for="VklEmail" class="form-control" />
+                <span asp-validation-for="VklEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklPhone" class="control-label"></label>
+                <input asp-for="VklPhone" class="form-control" />
+                <span asp-validation-for="VklPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklSalary" class="control-label"></label>
+                <input asp-for="VklSalary" class="form-control" />
+                <span asp-validation-for="VklSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="VklStatus" /> @Html.DisplayNameFor(model => model.VklStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="VklIndex">Back to List</a>
+</div>
+

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Vkllesson07.Models.VklEmployee>
+
+<p>
+    <a asp-action="VklCreate" class="btn btn-primary">them moi nhan vien</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VklId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "VklEdit", new { id = item.VklId }) |
+                    @Html.ActionLink("Details", "VklDetails", new { id = item.VklId }) |
+                @Html.ActionLink("Delete", "VklDelete", new { id = item.VklId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
