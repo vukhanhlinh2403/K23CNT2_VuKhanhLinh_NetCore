@@ -1,0 +1,78 @@
+﻿@model Vkllesson08.Models.VklAccount
+
+@{
+    ViewData["Title"] = "VklCreate";
+}
+
+<h1>VklCreate</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="VklCreate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="VklId" class="control-label"></label>
+                <input asp-for="VklId" class="form-control" />
+                <span asp-validation-for="VklId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklFullName" class="control-label"></label>
+                <input asp-for="VklFullName" class="form-control" />
+                <span asp-validation-for="VklFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklEmail" class="control-label"></label>
+                <input asp-for="VklEmail" class="form-control" />
+                <span asp-validation-for="VklEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklPhone" class="control-label"></label>
+                <input asp-for="VklPhone" class="form-control" />
+                <span asp-validation-for="VklPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklAddress" class="control-label"></label>
+                <input asp-for="VklAddress" class="form-control" />
+                <span asp-validation-for="VklAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklAvatar" class="control-label"></label>
+                <input asp-for="VklAvatar" class="form-control" />
+                <span asp-validation-for="VklAvatar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklBirthday" class="control-label"></label>
+                <input asp-for="VklBirthday" class="form-control" />
+                <span asp-validation-for="VklBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklGender" class="control-label"></label>
+                <input asp-for="VklGender" class="form-control" />
+                <span asp-validation-for="VklGender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklPassword" class="control-label"></label>
+                <input asp-for="VklPassword" class="form-control" />
+                <span asp-validation-for="VklPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="VklFacebook" class="control-label"></label>
+                <input asp-for="VklFacebook" class="form-control" />
+                <span asp-validation-for="VklFacebook" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="VklIndex">Back to List</a>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

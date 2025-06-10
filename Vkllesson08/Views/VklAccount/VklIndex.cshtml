@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Vkllesson08.Models.VklAccount>
+
+@{
+    ViewData["Title"] = "VklIndex";
+}
+
+<h1>VklIndex</h1>
+
+<p>
+    <a asp-action="VklCreate" class="btn btn-primary">Them moi</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.VklId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklAvatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklBirthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklGender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.VklFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklAvatar)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklBirthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklGender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.VklFacebook)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "VklEdit", new { id = item.VklId }) |
+                    @Html.ActionLink("Details", "VklDetails", new { id = item.VklId }) |
+                    @Html.ActionLink("Delete", "VklDelete", new { id = item.VklId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
