@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Vkllesson10.Models.VklCategory>
+
+@{
+    ViewData["Title"] = "danh mục loại";
+}
+
+<h1>@ViewData["Title"]</h1>
+<p>
+    <a asp-action="VklCreate" class="btn btn-danger">thêm mới</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CateId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CateStatus)
+            </th>
+            <th>chuc nang</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CateId)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CateName)
+            </td>
+                <td>
+                    @if (item.CateStatus == true)
+                    {
+                        <text>Hiển thị</text>
+                    }
+                    else
+                    {
+                        <text>Tạm khóa</text>
+                    }
+                </td>
+            <td>
+                <a asp-action="VklEdit" asp-route-vklId="@item.CateId">Edit</a> |
+                <a asp-action="VklDetails" asp-route-vklId="@item.CateId">Details</a> |
+                    <a asp-action="VklDelete" asp-route-vklId="@item.CateId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,38 @@
+﻿@model Vkllesson10.Models.VklCategory
+
+@{
+    ViewData["Title"] = "bạn có muốn xóa không";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h1>@ViewData["Title"]</h1>
+            </div>
+            <div class="card-body">
+                <div class="form-group">
+                    <label asp-for="CateId" class="control-label"></label>
+                    <input asp-for="CateId" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="CateName" class="control-label"></label>
+                    <input asp-for="CateName" class="form-control" readonly />
+                </div>
+                <div class="form-group">
+                    <label asp-for="CateStatus" class="control-label"></label>
+                    <input asp-for="CateStatus" class="form-control" readonly />
+                </div>
+            </div>
+            <div class="card-footer">
+
+                <form asp-action="VklDelete">
+                    <input type="hidden" asp-for="CateId" />
+                    <input type="submit" value="Xóa" class="btn btn-danger" /> |
+                    <a asp-action="VklIndex" class="btn btn-secondary">Back to List</a>
+                </form>
+            </div>
+        </div>
+
+    </div>
+</div>
